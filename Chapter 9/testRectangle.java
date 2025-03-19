@@ -16,10 +16,4 @@ class testRectangle {
 		System.out.println("The Perimeter of rectangle 2 is: ");
 		
 	}
-		double getArea(double w, double h) {
-			return w * h;
-		}
-		double getPerimeter(double w, double h) {
-			return (w * 2) + (h * 2);
-		}
 }
